@@ -1,0 +1,15 @@
+*{
+    background-color: #fcfcfc;
+}
+h1{
+    color:aquamarine;
+}
+h3{
+    color:aquamarine;
+}
+hr{
+    border-style:dotted none none none; 
+    border-color: rgb(189, 11, 11);
+    border-width: 5px;
+    width: 10%;
+}
